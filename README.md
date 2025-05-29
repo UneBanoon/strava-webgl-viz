@@ -92,7 +92,8 @@ strava-webgl-viz/
 
 5.  **Create `server.js`:**
 
-    ```see 'server.js'
+    ```
+    see 'server.js'
     ```
 
 6.  **Create `public` folder and subfolders:**
@@ -110,14 +111,16 @@ strava-webgl-viz/
 
 **Step 2: Frontend HTML (`public/index.html`)**
 
-```see 'public/index.html'
+```
+see 'public/index.html'
 ```
 
 ---
 
 **Step 3: Frontend CSS (`public/style.css`)**
 
-```see 'public/style.css'
+```
+see 'public/style.css'
 ```
 
 ---
@@ -126,7 +129,8 @@ strava-webgl-viz/
 
 This file will be large. I'll structure it and provide key parts.
 
-```see 'public/app.js'
+```
+see 'public/app.js'
 ```
 
 **Important Notes on `app.js` (Frontend):**
